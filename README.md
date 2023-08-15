@@ -1,2 +1,2 @@
-# Numeric-School-Changelogs
+# Numeric School
 Notes de Versions, Quelles sont les nouveautés ?
